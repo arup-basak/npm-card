@@ -9,5 +9,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.0.1",
+    "chalk": "^5.2.0",
+    "prettyjson": "^1.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
 }
