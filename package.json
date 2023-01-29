@@ -1,0 +1,18 @@
+{
+  "name": "arup",
+  "version": "2.0.0",
+  "description": "A fancy business card that outputs to the terminal using npx.",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "arup": "./cli.js"
+  },
+  "scripts": {},
+  "author": "whitep4nth3r",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.0.1",
+    "chalk": "^5.2.0",
+    "cli-table3": "^0.6.3"
+  }
+}
